@@ -1,0 +1,65 @@
+code {
+    border-radius: 5px;
+    position: relative;
+    image-rendering: pixelated;
+    background-image: url("/assets/frozenblock/textures/blueprint.png");
+    background-size: 100px;
+    background-blend-mode: multiply;
+}
+
+.codeblocks-copy-text {
+    padding: 2px;
+    border-radius: 5px;
+    width: 32px;
+    height: 32px;
+    margin-left: 10px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.codeblocks-copy-text:hover {
+    background-color: var(--palette-shadow);
+}
+
+.codeblocks-code-name {
+    margin: 0;
+    font-family: MinecraftFiveBold, poppins, system-ui;
+    font-size: 16px;
+    position: absolute;
+    transform: translateY(-20px);
+}
+
+[class^='codeblocks-overlay-text-'] {
+    width: 192px;
+    word-wrap: break-word;
+    white-space: normal;
+    position: absolute;
+    top: 0;
+    right: 16px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.codeblocks-overlay-image {
+    position: absolute;
+    width: 100%;
+}
+
+.codeblocks-overlay-inner-text {
+    position: absolute;
+    top: 0;
+    transform: translateX(20px);
+    font-size: 20px;
+    width: 192px;
+}
+
+.hljs {
+    font-family: Minecraftia, poppins, system-ui;
+    background-image: url("/assets/frozenblock/textures/blueprint.png");
+    background-size: 100px;
+    background-blend-mode: multiply;
+    font-size: 24px;
+    font-weight: normal;
+}

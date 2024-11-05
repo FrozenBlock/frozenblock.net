@@ -1,0 +1,84 @@
+/* The base CSS we want to use in EACH FILE */
+
+
+/* Color palette */
+:root {
+  --palette-white:#ffffff;
+  --palette-shadow:#00186b;
+  --palette-background:#000;
+
+  --palette-blue-0:#b8e7ff;
+  --palette-blue-1:#91c3f8;
+  --palette-blue-2:#718ffa;
+
+  --palette-gold-0:#fff78b;
+  --palette-gold-1:#fade0e;
+  --palette-gold-2:#f79802;
+}
+
+@font-face {
+  font-family: 'MinecraftFiveBold';
+  src: url('/assets/frozenblock/fonts/MinecraftFiveBold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Minecraftia';
+  src: url('/assets/frozenblock/fonts/Minecraft.otf') format('opentype');
+}
+
+body {
+  background-color: var(--palette-background);
+  color: var(--palette-white);
+  font-family: poppins, system-ui;
+}
+
+header nav {
+  text-align: center;
+}
+
+.button {
+  background-color: var(--palette-blue-2);
+  border-radius: 8px;
+  margin: 0;
+  padding: 12px;
+  text-decoration: none;
+  color: white;
+}
+
+.button:hover {
+  background-color: var(--palette-blue-1);
+}
+
+header nav ul {
+  margin: 0;
+  padding: 10px 10px;
+  list-style-type: none;
+  cursor: pointer;
+}
+
+footer nav {
+  width: 45%;
+  margin: auto;
+  list-style-type: none;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: var(--palette-shadow);
+  text-align: center;
+  cursor: pointer;
+}
+
+header nav ul li, footer nav li {
+  display: inline-block;
+  margin: 15px 5px;
+}
+
+footer nav ul li a {
+  display: block;
+  width: 20px;
+  height: 20px;
+}
+
+footer nav ul li a img {
+  margin: auto;
+  width: 100%;
+}

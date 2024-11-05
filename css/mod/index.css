@@ -1,0 +1,118 @@
+#home-base {
+    background-image: linear-gradient(var(--palette-background), transparent, var(--palette-background)), url("../assets/frozenblock/textures/mod-page/home_background.png");
+    height: 777px;
+    display: flex;
+    justify-content: center; /* Centers the image horizontally */
+    align-items: center;     /* Centers the image vertically */
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.center {
+    max-width: 100%;
+    width: 100%;
+    image-rendering: pixelated;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.mod-title-container {
+    position: absolute;
+    width: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.mod-title {
+    width: 100%;
+}
+
+.download-button {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: var(--palette-blue-2);
+    padding: 10px;
+    font-weight: bold;
+    display: block;
+}
+
+.slider {
+    overflow: hidden;
+    height: 100vh;
+    position: relative;
+}
+
+.slider .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    animation: slide 20s infinite;
+}
+
+#mods #more {
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    transform: translateX(-50%);
+    font-family: Minecraftia, poppins, system-ui;
+    font-size: 32px;
+    text-align: center;
+    image-rendering: pixelated;
+    text-decoration: none;
+    color: white;
+}
+
+#mods #more img {
+    width: 32px;
+}
+
+#mods #more img:hover {
+    animation: wave 1s infinite;
+}
+
+@keyframes wave {
+    0% {
+        transform: translateX(0);
+        animation-timing-function: cubic-bezier(0, 0, 0.58, 1); /* Ease-in */
+    }
+    25% {
+        transform: translateX(5px);
+        animation-timing-function: cubic-bezier(0.42, 0, 1, 1); /* Ease-out */
+    }
+    50% {
+        transform: translateX(0);
+        animation-timing-function: cubic-bezier(0, 0, 0.58, 1); /* Ease-in */
+    }
+    75% {
+        transform: translateX(-5px);
+        animation-timing-function: cubic-bezier(0.42, 0, 1, 1); /* Ease-in */
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@keyframes slide {
+    0%, 15%, 100% {
+        transform: translateX(0);
+        animation-timing-function: ease;
+    }
+    20% {
+        transform: translateX(-100%);
+        animation-timing-function: step-end;
+    }
+    95% {
+        transform: translateX(100%);
+        animation-timing-function: ease;
+    }
+}

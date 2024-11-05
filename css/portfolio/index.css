@@ -1,0 +1,41 @@
+section {
+    border: 100px solid transparent;
+    image-rendering: pixelated;
+    border-image: url("/assets/frozenblock/textures/blueprint_border.png") 16 16 16 16 repeat;
+
+    background-image: url("/assets/frozenblock/textures/blueprint.png");
+    background-size: 100px;
+}
+
+#portfolio-title {
+    font-family: MinecraftFiveBold, poppins, system-ui;
+    margin: 0;
+}
+
+#portfolio-title img {
+    display: inline;
+    width: 100px;
+    height: 100px;
+}
+
+#portfolio-title {
+    display: flex;
+    position: relative;
+    font-size: 64px;
+}
+
+#portfolio-title div {
+    margin: 0 10px;
+    height: 100%;
+    display: inline;
+}
+
+@media (max-width: 750px) {
+    #portfolio-title img {
+        display: none;
+    }
+
+    #portfolio-title {
+        font-size: 32px;
+    }
+}
