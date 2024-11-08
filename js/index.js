@@ -4,10 +4,11 @@ function increase(index, n) {
 }
 
 function setCurrent(index, n) {
-    func_092018(index, temp[index] = n)
+    rawSetCurrent(index, temp[index] = n)
 }
 
-function func_092018(index, n) {
+// Dont use. Use setCurrent instead. This is an internal function.
+function rawSetCurrent(index, n) {
     let slideshow = document.getElementById(`slideshow-${index}`)
     let slides = slideshow.children
 
