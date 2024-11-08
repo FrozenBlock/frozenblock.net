@@ -67,18 +67,18 @@ footer nav {
   cursor: pointer;
 }
 
-header nav ul li, footer nav li, .button-list {
+header nav ul li, footer nav li, .button-list li {
   display: inline-block;
   margin: 15px 5px;
 }
 
-footer nav ul li a, .button-list a {
+footer nav ul li a, .button-list li a {
   display: block;
   width: 20px;
   height: 20px;
 }
 
-footer nav ul li a img, .button-list a img {
+footer nav ul li a img, .button-list li a img {
   margin: auto;
   width: 100%;
 }

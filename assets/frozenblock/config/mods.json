@@ -15,7 +15,8 @@
     "title": "Frozen Lib",
     "description": "FrozenBlock's Official Library",
     "color": "#3b4b8b",
-    "slides": 0
+    "slides": 0,
+    "source": "https://github.com/FrozenBlock/FrozenLib"
   },
   "configurable-everything": {
     "title": "Configurable Everything",

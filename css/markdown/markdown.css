@@ -1,3 +1,8 @@
-.markdown-element h1 {
+.markdown-element h1 .markdown-element h2, .markdown-element h3, .markdown-element h4 {
     font-family: MinecraftFiveBold, poppins, system-ui;
+}
+
+.markdown-element a {
+    text-decoration: none;
+    color: #718ffa;
 }

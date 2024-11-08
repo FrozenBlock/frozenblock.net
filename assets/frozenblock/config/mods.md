@@ -19,7 +19,9 @@ Add the entry into [mods.json](mods.json):
     "color": "#718ffa", //Gradient color
     //Means there are 6 sliding images (0.png, 1.png ... 5.png)
     //Default: 1
-    "slides": 6 //Default: 1
+    "slides": 6, //Default: 1
+    //A link to the mod's source page (Optional)
+    "source": "https://github.com/FrozenBlock/MyMod"
   }
 }
 ```
