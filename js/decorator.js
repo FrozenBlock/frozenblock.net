@@ -20,7 +20,7 @@ header.innerHTML = preHeader + `
         <li><a class="button" href="/index.html"><strong>HOME</strong></a></li>
         <li><a class="button" href="/mods"><strong>MODS</strong></a></li>
         <li><a class="button" href="/about"><strong>ABOUT</strong></a></li>
-        <li><a class="button" href="/wiki"><strong>WIKI</strong></a></li>
+        <li><a class="button" href="https://wiki.frozenblock.net/"><strong>WIKI</strong></a></li>
     </ul></nav>`
 
 let footer = document.getElementsByTagName('footer')[0]
