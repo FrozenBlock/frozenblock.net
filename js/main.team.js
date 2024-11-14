@@ -26,7 +26,7 @@ fetch('/assets/frozenblock/config/team.json')
 
                 more.className = 'button'
 
-                image.setAttribute('style', `background-image: url('https://mc-heads.net/body/${key}');`)
+                image.setAttribute('style', `background-image: url('https://mc-heads.net/body/${user_id}');`)
                 title.setAttribute('style', 'margin-right: 20px')
 
                 title.textContent = user_title
