@@ -9,10 +9,12 @@ fetch('/assets/frozenblock/config/team.json')
                 let user_title = 'Untitled';
                 let user_description = 'No description provided';
                 let user_color = '#718ffa';
+                let user_id = 'Steve';
 
                 if('title' in data[key]) user_title = data[key].title
                 if('description' in data[key]) user_description = data[key].description
                 if('color' in data[key]) user_color = data[key].color
+                if('id' in data[key]) user_id = data[key].id
                 /* JSON VARIABLES */
 
                 /* USER DISPLAY */
@@ -43,7 +45,7 @@ fetch('/assets/frozenblock/config/team.json')
 
                 img.className = 'elem'
                 img.setAttribute('onClick', `setCurrent(1,${i})`)
-                img.src = `https://mc-heads.net/avatar/${key}`
+                img.src = `https://mc-heads.net/avatar/${user_id}`
                 img.alt = user_title
 
                 li.appendChild(img)

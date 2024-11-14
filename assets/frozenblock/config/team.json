@@ -1,42 +1,52 @@
 {
-  "097b76e8-ac32-410f-b81c-38dd4086b97c": {
+  "lunade": {
     "title": "Lunade",
+    "id": "097b76e8-ac32-410f-b81c-38dd4086b97c",
     "description": "Lead dev & owner of FrozenBlock"
   },
-  "e4d5386a-2255-450b-9478-17ed2a31041d": {
+  "treetrain1": {
     "title": "Treetrain1",
+    "id": "e4d5386a-2255-450b-9478-17ed2a31041d",
     "description": "Ports to newer versions & technical mods"
   },
-  "62af0c47-6817-45be-8147-6adc2c9681c3": {
+  "soro": {
     "title": "Soro",
+    "id": "62af0c47-6817-45be-8147-6adc2c9681c3",
     "description": "soro"
   },
-  "ccaa0664-8fd4-4176-96b4-eab6f8c75083": {
+  "alexthedolphin0": {
     "title": "AlexTheDolphin0",
+    "id": "ccaa0664-8fd4-4176-96b4-eab6f8c75083",
     "description": "Most worldgen in The Wild Mod"
   },
-  "659b74f7-b151-426a-b9c4-a71cd2fb64c6": {
+  "liukrast": {
     "title": "LiukRast",
+    "id": "659b74f7-b151-426a-b9c4-a71cd2fb64c6",
     "description": "Founder & developer"
   },
-  "6e9aaed3-c6e5-43f4-9151-d0cdaa51cb6d": {
+  "minocrite": {
     "title": "Minocrite",
+    "id": "6e9aaed3-c6e5-43f4-9151-d0cdaa51cb6d",
     "description": "ashlyn"
   },
-  "321a6c75-182f-4de0-b660-6b48e6853f7a": {
+  "zhen": {
     "title": "Zhen",
+    "id": "321a6c75-182f-4de0-b660-6b48e6853f7a",
     "description": "Artist and gameplay designer"
   },
-  "7e6a4565-4f83-40a7-8fc1-ca14547b9fcd": {
+  "voxelotl": {
     "title": "Voxelotl",
+    "id": "7e6a4565-4f83-40a7-8fc1-ca14547b9fcd",
     "description": "Artist"
   },
-  "b7d99111-f8b8-4627-a7a7-1ef3d58708f5": {
+  "wigglewoggle": {
     "title": "WiggleWoqqle",
+    "id": "b7d99111-f8b8-4627-a7a7-1ef3d58708f5",
     "description": "Lead structure builder"
   },
-  "2d12cab0-7338-44ed-96de-b6da49c7f07c": {
+  "rebel459": {
     "title": "Rebel459",
+    "id": "2d12cab0-7338-44ed-96de-b6da49c7f07c",
     "description": "Rebel459"
   }
 }

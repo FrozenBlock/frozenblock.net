@@ -14,7 +14,7 @@ if(user) {
             if (Object.keys(data).includes(user)) {
 
                 let img = document.createElement('img')
-                img.src = `https://mc-heads.net/avatar/${user}`
+                img.src = `https://mc-heads.net/avatar/${data[user].id}`
                 img.alt = user
 
                 let p = document.createElement('div')
