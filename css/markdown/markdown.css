@@ -1,5 +1,10 @@
 .markdown-element h1 .markdown-element h2, .markdown-element h3, .markdown-element h4 {
+    color: white;
     font-family: MinecraftFiveBold, poppins, system-ui;
+}
+
+.markdown-element {
+    color: gray;
 }
 
 .markdown-element a {
