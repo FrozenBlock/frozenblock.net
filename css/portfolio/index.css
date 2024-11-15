@@ -12,6 +12,22 @@ section {
     margin: 0;
 }
 
+#socials {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    cursor: pointer;
+
+}
+
+#socials li {
+    display: inline-flex;
+}
+
+#socials img {
+    width: 100px;
+}
+
 #portfolio-title img {
     display: inline;
     width: 100px;
@@ -22,6 +38,7 @@ section {
     display: flex;
     position: relative;
     font-size: 64px;
+    text-align: center;
 }
 
 #portfolio-title div {
@@ -33,6 +50,10 @@ section {
 @media (max-width: 750px) {
     #portfolio-title img {
         display: none;
+    }
+
+    #socials {
+        text-align: center;
     }
 
     #portfolio-title {

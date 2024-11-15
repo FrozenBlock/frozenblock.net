@@ -22,7 +22,14 @@
   "liukrast": {
     "title": "LiukRast",
     "id": "659b74f7-b151-426a-b9c4-a71cd2fb64c6",
-    "description": "Founder & developer"
+    "description": "Founder & developer",
+    "socials": {
+      "fiverr": "https://fiverr.com/liukrast",
+      "instagram": "https://www.instagram.com/liukrast_gd",
+      "github": "https://github.com/LIUKRAST",
+      "x": "https://x.com/LiukRast",
+      "modrinth": "https://modrinth.com/user/LIUKRAST"
+    }
   },
   "minocrite": {
     "title": "Minocrite",
