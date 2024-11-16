@@ -1,0 +1,12 @@
+section {
+    padding: 10px 0;
+}
+
+section div h1 {
+    font-family: MinecraftFiveBold, poppins, system-ui;
+}
+
+section div a {
+    text-decoration: none;
+    color: var(--palette-blue-2);
+}
