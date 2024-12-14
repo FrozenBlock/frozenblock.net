@@ -44,7 +44,7 @@ footer.innerHTML = preFooter + `
             <li><a class="button" href="https://www.youtube.com/@frozenblockmoddingoasis">
                 <img src="/assets/frozenblock/textures/icons/youtube.svg" alt="Youtube">
             </a></li>
-                <li><a class="button" href="https://modrinth.com/organization/frozenblocks">
+                <li><a class="button" href="https://modrinth.com/organization/frozenblock">
             <img src="/assets/frozenblock/textures/icons/modrinth.svg" alt="Modrinth">
             </a></li>
         </ul>
