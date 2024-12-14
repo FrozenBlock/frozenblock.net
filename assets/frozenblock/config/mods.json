@@ -3,16 +3,18 @@
     "title": "Wilder Wild",
     "description": "This mod aims to upgrade the Wild Update!",
     "color": "#648f5b",
-    "slides": 7
+    "slides": 7,
+    "source": "https://github.com/FrozenBlock/WilderWild"
   },
   "trailier-tales": {
     "title": "Trailier Tales",
     "description": "This mod aims to upgrade the Trails & Tales Update!",
     "color": "#648f5b",
-    "slides": 7
+    "slides": 7,
+    "source": "https://github.com/FrozenBlock/TrailierTales"
   },
   "frozenlib": {
-    "title": "Frozen Lib",
+    "title": "FrozenLib",
     "description": "FrozenBlock's Official Library",
     "color": "#3b4b8b",
     "slides": 0,
@@ -35,7 +37,7 @@
   },
   "very-blue-stair-mod": {
     "title": "Very Blue Stairs Mod",
-    "description": "Adds the very blue stair into minecraft!",
+    "description": "Adds the very blue stair into Minecraft! For some reason.",
     "color": "#0000cd"
   }
 }

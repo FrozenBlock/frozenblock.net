@@ -29,7 +29,7 @@ let preFooter = footer.innerHTML === undefined ? '' : footer.innerHTML
 footer.innerHTML = preFooter + `
     <nav>
         <ul>
-            <li><a class="button" href="https://discord.com/invite/frozenblock-modding-oasis-780746010614956112">
+            <li><a class="button" href="https://discord.gg/frozenblock">
                 <img src="/assets/frozenblock/textures/icons/discord.svg" alt="Discord">
             </a></li>
             <li><a class="button" href="https://github.com/FrozenBlock">

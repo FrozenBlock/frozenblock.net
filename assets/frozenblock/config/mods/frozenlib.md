@@ -1,5 +1,5 @@
 ## A library that contains many tools to make life easier.
-### Required for most of [FrozenBlock](https://frozenblock.net) mods
+### Required for most [FrozenBlock](https://frozenblock.net) mods.
 
 ## Features
 - Advanced Configs

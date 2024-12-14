@@ -2,12 +2,29 @@
   "lunade": {
     "title": "Lunade",
     "id": "097b76e8-ac32-410f-b81c-38dd4086b97c",
-    "description": "Lead dev & owner of FrozenBlock"
+    "description": "Lead dev & owner of FrozenBlock",
+    "socials": {
+      "instagram": "https://www.instagram.com/lunademusic",
+      "github": "https://github.com/AViewFromTheTop",
+      "x": "https://x.com/LunadeMusic",
+      "modrinth": "https://modrinth.com/user/Lunade",
+      "curseforge": "https://www.curseforge.com/members/AViewFromTheTop/projects",
+      "namemc": "https://namemc.com/profile/Lunade_",
+      "bluesky": "https://bsky.app/profile/lunademusic.bsky.social"
+    }
   },
   "treetrain1": {
     "title": "Treetrain1",
     "id": "e4d5386a-2255-450b-9478-17ed2a31041d",
-    "description": "Ports to newer versions & technical mods"
+    "description": "Ports to newer versions & technical mods",
+    "socials": {
+      "github": "https://github.com/Treetrain1",
+      "x": "https://x.com/Treetrain1",
+      "modrinth": "https://modrinth.com/user/Treetrain1",
+      "curseforge": "https://www.curseforge.com/members/Treetrain1/projects",
+      "namemc": "https://namemc.com/profile/Treetrain1",
+      "bluesky": "https://bsky.app/profile/treetrain1.bsky.social"
+    }
   },
   "soro": {
     "title": "Soro",
@@ -43,12 +60,28 @@
   "zhen": {
     "title": "Zhen",
     "id": "321a6c75-182f-4de0-b660-6b48e6853f7a",
-    "description": "Artist and gameplay designer"
+    "description": "Artist and gameplay designer",
+    "socials": {
+      "github": "https://github.com/zntm",
+      "x": "https://x.com/zhntm",
+      "modrinth": "https://modrinth.com/user/zntm",
+      "curseforge": "https://www.curseforge.com/members/zntm/projects",
+      "namemc": "https://namemc.com/profile/zhntm",
+      "bluesky": "https://bsky.app/profile/zntm.bsky.social"
+    }
   },
   "voxelotl": {
     "title": "Voxelotl",
     "id": "7e6a4565-4f83-40a7-8fc1-ca14547b9fcd",
-    "description": "Artist"
+    "description": "Artist",
+    "socials": {
+      "github": "https://github.com/voxelotl",
+      "x": "https://x.com/voxelvoxel_",
+      "modrinth": "https://modrinth.com/user/zntm",
+      "curseforge": "https://www.curseforge.com/members/voxelotl/projects",
+      "namemc": "https://namemc.com/profile/voxelotl",
+      "bluesky": "https://bsky.app/profile/voxelotl.bsky.social"
+    }
   },
   "wigglewoggle": {
     "title": "WiggleWoqqle",
