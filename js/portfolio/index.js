@@ -42,6 +42,7 @@ if(user) {
 
                 doc.appendChild(img)
                 doc.appendChild(p)
+                console.log(user)
                 parse(`/assets/frozenblock/config/portfolio/${user}.md`, content)
             } else {
                 doc.textContent = `Portfolio not found!`

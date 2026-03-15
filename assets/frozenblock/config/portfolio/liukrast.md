@@ -36,7 +36,7 @@ If you see any issue with it, text me somewhere, cause this is my first big webs
     }
 </style>
 <ul class="cool-list">
-    <li><a href="https://modrinth.com/mod/emi-create-schematics"><img src="https://cdn.modrinth.com/data/5bgqgixq/2bd3e1cffdb257c3f14b3d88b4b3d8babfc54a89_96.webp" alt="EMI: Create Schematics"></a></li>
+    <li><a href="https://modrinth.com/mod/emi-create-schematics"><img src="https://cdn.modrinth.com/data/5bgqgixq/ea85f490e5bf2125fd4414b1bf8595470f95dc6f_96.webp" alt="EMI: Create Schematics"></a></li>
     <li><a href="https://modrinth.com/mod/skins3d-but-not-cubic"><img src="https://cdn.modrinth.com/data/AKaIjIT0/793255624d251afce92d7424ed7e292db2bf7910_96.webp" alt="Skins3D"></a></li>
     <li><a href="https://www.curseforge.com/minecraft/mc-mods/rgb-pixelmod"><img src="https://media.forgecdn.net/avatars/thumbnails/669/350/256/256/638063510173487486.png" alt="RGB Pixel Lamp"></a></li>
     <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-wild-mod"><img src="https://media.forgecdn.net/avatars/thumbnails/455/158/256/256/637723588481554069.png" alt="The Wild Mod"></a></li>

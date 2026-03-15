@@ -1,0 +1,21 @@
+{
+  "name": "frozenblock.net",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Development tooling for the FrozenBlock static website",
+  "scripts": {
+    "dev": "serve . -l 4173",
+    "format": "prettier --write \"**/*.{html,css,js,json,md,yml,yaml}\"",
+    "format:check": "prettier --check \"**/*.{html,css,js,json,md,yml,yaml}\"",
+    "lint": "eslint \"js/**/*.js\"",
+    "validate:json": "node ./scripts/validate-json.mjs",
+    "check": "npm run validate:json && npm run lint"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "prettier": "^3.5.3",
+    "serve": "^14.2.4"
+  }
+}
+

@@ -36,7 +36,7 @@ of time working on them, and I want to make them the best they reasonably can be
     }
 </style>
 <ul class="cool-list">
-    <li><a href="https://modrinth.com/mod/wilder-wild"><img src="https://cdn.modrinth.com/data/AtHRJSUW/5bb69fad5ab237a0738f90e24d70f9d379364633_96.webp" alt="Wilder Wild"></a></li>
+    <li><a href="https://modrinth.com/mod/wilder-wild"><img src="https://cdn.modrinth.com/data/AtHRJSUW/9cef13699a169068ba7a8cc23bb3e5bae86f30fa_96.webp" alt="Wilder Wild"></a></li>
     <li><a href="https://modrinth.com/mod/trailier-tales"><img src="https://cdn.modrinth.com/data/9xTQM0ci/bcbb5b4cd0cbb61d711130fc547f42dfb490684a_96.webp" alt="Trailier Tales"></a></li>
     <li><a href="https://modrinth.com/mod/frozenlib"><img src="https://cdn.modrinth.com/data/9KawNmQc/icon.png" alt="FrozenLib"></a></li>
     <li><a href="https://modrinth.com/mod/simple-copper-pipes"><img src="https://cdn.modrinth.com/data/9r4ZkgSN/24da6f2b3298f0941a967e4b72f063cd48f3b636.png" alt="Simple Copper Pipes"></a></li>
